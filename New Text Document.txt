@@ -1,0 +1,13 @@
+Razer.com clone using HTML ,CSS ,Bootstrp,JS.
+
+page consists of following pages 
+    0.RazerBlade16 & RazerBlade18(home page consists of two subpages)
+    1. PC
+    2.Console
+    3.Mobile
+    4.store
+
+    
+
+total pages 6
+
